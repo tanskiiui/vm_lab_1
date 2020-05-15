@@ -1,0 +1,9 @@
+C:\Users\Юра\source\repos\VM_LAB__num1\VM_LAB__num1\bin\Debug\VM_LAB__num1.exe.config
+C:\Users\Юра\source\repos\VM_LAB__num1\VM_LAB__num1\bin\Debug\VM_LAB__num1.exe
+C:\Users\Юра\source\repos\VM_LAB__num1\VM_LAB__num1\bin\Debug\VM_LAB__num1.pdb
+C:\Users\Юра\source\repos\VM_LAB__num1\VM_LAB__num1\obj\Debug\VM_LAB__num1.csprojAssemblyReference.cache
+C:\Users\Юра\source\repos\VM_LAB__num1\VM_LAB__num1\obj\Debug\VM_LAB__num1.Form1.resources
+C:\Users\Юра\source\repos\VM_LAB__num1\VM_LAB__num1\obj\Debug\VM_LAB__num1.Properties.Resources.resources
+C:\Users\Юра\source\repos\VM_LAB__num1\VM_LAB__num1\obj\Debug\VM_LAB__num1.csproj.GenerateResource.cache
+C:\Users\Юра\source\repos\VM_LAB__num1\VM_LAB__num1\obj\Debug\VM_LAB__num1.exe
+C:\Users\Юра\source\repos\VM_LAB__num1\VM_LAB__num1\obj\Debug\VM_LAB__num1.pdb
